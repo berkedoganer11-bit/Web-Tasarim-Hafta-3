@@ -1,0 +1,53 @@
+body{
+    background-color: bisque;
+    background-image: url("resim.jpg");
+}
+p{
+    color: blue;
+    font-size: large;
+    font-style: oblique;
+}
+
+#deneme1{
+    color:green;
+    font-size: 50px;
+}
+#deneme2{
+    color:purple;
+    font-size: 25px;
+}
+div.sablon{
+    text-align: center;
+}
+h1{
+    color:red;
+    font-size: large;
+    text-decoration: underline;
+}
+
+h2{
+    color: brown;
+    text-decoration: line-through;
+}
+h3{
+    text-decoration: overline;
+}
+
+p.uppercase{
+    color: navajowhite;
+    text-transform: uppercase;
+    text-align: center;
+}
+p.lowercase{
+    color: teal;
+    text-transform: lowercase;
+    text-align: right;
+}
+p.capitalize{
+    color: silver;
+    text-transform: capitalize;
+    text-align: left;
+}
+a:hover{
+    color:red
+}
